@@ -1,5 +1,6 @@
 form{
-    margin-top:31%;
+    margin-top:32%;
+    margin-left: 15%;
 }
 button{
     background-color:#D94C1A;
@@ -32,4 +33,34 @@ div{
     border-radius: 2px;
     background-color: #a4a68afd;
     color: white;
+}
+ul,li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-size: 1 rem;
+    font-family: Arial;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.header{
+    display: flex;
+    background-color: #a4a68afd;
+}
+.menu{
+    display: flex;
+    padding: 5px;
+}
+.menu li{
+    margin-left: 30px;
+    
+}
+.img01{
+ transform: translate(400px,100px);
+
+    
+    
 }
